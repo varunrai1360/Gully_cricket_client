@@ -1,0 +1,15 @@
+.row{ margin: 15px; 
+margin-top: 0px;
+margin-bottom: 5px;
+}
+.card {
+    height: 250px;
+    width: 100%;
+    background: #E0F2F1;
+    box-shadow: 1px 1px 5px lightgrey;
+    padding: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+}
